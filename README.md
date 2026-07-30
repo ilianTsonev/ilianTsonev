@@ -1,14 +1,19 @@
+```
+C:\Users\аз>git whoami
+IlianTsonev
+C:\Users\аз>git whatami
+Only a human (and a dev)
+C:\Users\аз>git wherearemysocials
+memelian4 on Discord,
+memelian4 on Instagram,
+memelian4 on Anywhere
+C:\Users\аз>git thx
+np... no more work to do...
 
-# Hello!! I am memelian4, And i love doing random stuff!
-- 🌱 I’m currently learning C#, C++, and Swift!
-- 📫 How to reach me:
-- Discord: memelian4 
-- @IlianTsonev on Github
-- I am making tests on my account. Some may be public other might be private. feel free to check on me if you want some!
-    (.)(/)
-      ___
 
-<!---
-ilianTsonev/ilianTsonev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Broadcast message from root@git-admin (tty1) (Thu 2026-07-30 20:44:00 EEST):
+
+The system is going down for poweroff NOW!
+
+```
